@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Leonardo Pagano ALonso
+=======
+Leonardo Pagano Alonso
+>>>>>>> 1fa10eb2a23c6f087468f004641f48b8dbe51056
 =======
 Jose Burgos Martínez
 =======
